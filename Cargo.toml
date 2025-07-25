@@ -9,4 +9,4 @@ yamux = "0.13"
 tokio = { version = "1", features = ["rt", "rt-multi-thread", "io-util", "macros", "net", "fs", "time" ] } # 异步网络库
 tokio-util = { version = "0.7", features = ["codec", "compat"] }
 anyhow = "1.0.98"
-
+bytes = "1"
